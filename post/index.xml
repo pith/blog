@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Pith portfolio</title>
+    <link>http://pith.github.io/blog/post/</link>
+    <description>Recent content in Posts on Pith portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://pith.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Premier article</title>
+      <link>http://pith.github.io/blog/post/premier-article/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://pith.github.io/blog/post/premier-article/</guid>
+      <description>
+
+&lt;h3 id=&#34;premier-article:345772cd6eb3b5e28a685251337ebb90&#34;&gt;&lt;strong&gt;Premier article&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Désolé pour la déception, il n&amp;rsquo;y a rien ici pour l&amp;rsquo;instant.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
