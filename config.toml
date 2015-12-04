@@ -1,0 +1,11 @@
+baseurl = "http://pith.github.io/blog/"
+languageCode = "en-us"
+title = "Pith portfolio"
+theme = "hugo-cactus-theme"
+disqusShortname = "pith"
+
+[params]
+	name = "Pith"
+	description = "Portfolio en construction..."
+	bio = "Développeur passioné"
+	twitter = "pierrethirouin"

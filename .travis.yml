@@ -1,0 +1,11 @@
+language: go
+
+go: 1.5
+
+install:
+  - go get -v github.com/spf13/hugo
+
+script:
+  - chmod +x deploy_ghpages.sh
+  - hugo
+  - ./deploy_ghpages.sh
